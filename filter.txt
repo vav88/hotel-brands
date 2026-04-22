@@ -58,3 +58,6 @@ samsung
 tizen\.org
 fastly-edge\.com
 kernel\.org
+comfylink\.com
+appcenter\.ms
+whoop\.com
