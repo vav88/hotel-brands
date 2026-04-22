@@ -71,4 +71,3 @@ wikipedia\.org
 cambridge\.org
 jstor\.org
 kernel\.org
-youtube\.com
