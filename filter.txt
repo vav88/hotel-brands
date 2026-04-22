@@ -9,7 +9,6 @@ azure\.com
 bing\.com
 googletagmanager\.com
 google-analytics\.com
-stripe\.com
 phncdn\.com
 cloudflare-dns\.com
 applicationinsights
@@ -32,8 +31,6 @@ devmate\.com
 moonlock\.com
 macpaw\.com
 dns\.google
-quickconnect\.to
-icloud\.com
 claudeusercontent\.com
 gvt2\.com
 snaptrckr\.fun
@@ -45,14 +42,14 @@ fbcdn\.net
 sangfor\.com\.cn
 googleusercontent\.com
 courier\.push\.apple\.com
+bilivideo\.com
+bilivideo\.cn
+biligame\.com
 app-measurement\.com
 microsoftonline\.com
-microsoft\.com
 res\.res\.res\.res
 gvt1\.com
 xn--ngstr-lra8j\.com
-facebook\.com
-whoop\.com
 1\.1\.1\.1
 memfault\.com
 amplitude\.com
@@ -60,8 +57,4 @@ googlesyndication\.com
 samsung
 tizen\.org
 fastly-edge\.com
-comfylink\.com
-wikipedia\.org
-cambridge\.org
-jstor\.org
 kernel\.org
