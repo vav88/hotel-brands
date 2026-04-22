@@ -18,7 +18,6 @@ adtng\.com
 trafficjunky\.com
 office\.com
 azurewebsites\.net
-meituan\.net
 motd\.ubuntu\.com
 cleanmymac\.com
 sentry\.io
@@ -44,13 +43,8 @@ ocsp\.digicert\.com
 cl2\.apple\.com
 fbcdn\.net
 sangfor\.com\.cn
-qq\.com
 googleusercontent\.com
 courier\.push\.apple\.com
-bilivideo\.com
-bilivideo\.cn
-biligame\.com
-bilibili\.com
 app-measurement\.com
 microsoftonline\.com
 microsoft\.com
