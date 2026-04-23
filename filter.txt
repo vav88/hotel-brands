@@ -62,3 +62,4 @@ comfylink\.com
 appcenter\.ms
 whoop\.com
 line-apps\.com
+line-scdn\.net
