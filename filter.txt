@@ -70,3 +70,11 @@ wpscdn\.com
 4wps\.net
 payments-graph\.facebook\.com
 giphy\.com
+graph\.facebook\.com
+edge-mqtt\.facebook\.com
+b-graph\.facebook\.com
+graph-fallback\.facebook\.com
+lookaside\.facebook\.com
+z-m-gateway\.facebook\.com
+fbpigeon\.com
+android\.com
