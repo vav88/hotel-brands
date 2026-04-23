@@ -69,3 +69,4 @@ oneclient\.sfx\.ms
 wpscdn\.com
 4wps\.net
 payments-graph\.facebook\.com
+giphy\.com
