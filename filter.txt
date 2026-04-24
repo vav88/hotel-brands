@@ -89,3 +89,9 @@ segment\.io
 jpush\.cn
 tripcdn\.com
 wps\.cn
+onecdn\.static\.microsoft
+login\.live\.com
+oaiusercontent\.com
+connectedpdf\.com
+foxit\.com
+web-fallback\.facebook\.com
