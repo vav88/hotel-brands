@@ -83,3 +83,9 @@ whatsapp\.com
 instagram\.com
 cdninstagram\.com
 iotwish\.com
+usertrust\.com
+sectigo\.com
+segment\.io
+jpush\.cn
+tripcdn\.com
+wps\.cn
