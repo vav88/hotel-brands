@@ -78,3 +78,8 @@ lookaside\.facebook\.com
 z-m-gateway\.facebook\.com
 fbpigeon\.com
 android\.com
+whatsapp\.net
+whatsapp\.com
+instagram\.com
+cdninstagram\.com
+iotwish\.com
