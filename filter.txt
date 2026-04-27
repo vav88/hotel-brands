@@ -103,3 +103,7 @@ blcdog\.com
 cdn-fc\.com
 aifrwk\.com
 itunes\.com
+crash\.trip\.com
+oaistatic\.com
+login\.windows\.net
+svc\.cloud\.microsoft
