@@ -107,3 +107,6 @@ crash\.trip\.com
 oaistatic\.com
 login\.windows\.net
 svc\.cloud\.microsoft
+ydycdn\.com
+itunes\.apple\.com
+comodoca\.com
