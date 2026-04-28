@@ -123,3 +123,5 @@ tiktokv\.com
 msn\.com
 safebrowsing\.apple
 resources\.office\.net
+manlaxycloud\.com
+music\.apple\.com
