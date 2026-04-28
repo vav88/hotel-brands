@@ -136,3 +136,11 @@ appcloud2\.in\.zhihu\.com
 sentry\.in\.zhihu\.com
 geo2\.adobe\.com
 fpdownload\.macromedia\.com
+mc\.yandex\.(com|ru)
+static\.addtoany\.com
+cacerts\.digicert\.com
+status\.rapidssl\.com
+aadcdn\.msftauth\.net
+img-s-msn-com\.akamaized\.net
+msft-ssp-uswest\.adnxs\.com
+shftr\.adnxs\.net
