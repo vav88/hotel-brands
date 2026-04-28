@@ -150,3 +150,7 @@ lcdn-locator\.apple\.com
 edge-\d+\.uslax2\.icloud-content\.com
 p\d+-content\.icloud\.com
 weather-edge\.apple\.com
+roaming\.svc\.cloud\.microsoft\.com
+app-measurement\.com
+ocsp\.comodoca\.com
+login\.microsoftonline\.com
