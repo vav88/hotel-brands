@@ -144,3 +144,9 @@ aadcdn\.msftauth\.net
 img-s-msn-com\.akamaized\.net
 msft-ssp-uswest\.adnxs\.com
 shftr\.adnxs\.net
+dzfnas\.direct\.quickconnect\.(cn|to)
+gateway\.icloud\.com
+lcdn-locator\.apple\.com
+edge-\d+\.uslax2\.icloud-content\.com
+p\d+-content\.icloud\.com
+weather-edge\.apple\.com
