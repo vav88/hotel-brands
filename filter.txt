@@ -125,3 +125,12 @@ safebrowsing\.apple
 resources\.office\.net
 manlaxycloud\.com
 music\.apple\.com
+p227-contacts\.icloud\.com
+ocsp-uat\.corp\.apple\.com
+8\.8\.8\.8
+8\.8\.4\.4
+91\.108\.56\.\d+
+imap\.gmail\.com
+sealine\.youku\.com
+appcloud2\.in\.zhihu\.com
+sentry\.in\.zhihu\.com
