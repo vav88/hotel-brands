@@ -122,3 +122,4 @@ z-p42-chat-e2ee-ig\.facebook\.com
 tiktokv\.com
 msn\.com
 safebrowsing\.apple
+resources\.office\.net
