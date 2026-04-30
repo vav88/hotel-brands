@@ -154,3 +154,7 @@ roaming\.svc\.cloud\.microsoft\.com
 app-measurement\.com
 ocsp\.comodoca\.com
 login\.microsoftonline\.com
+.*\.meituan\.net
+catfront\.dianping\.com
+dnspod\.meituan\.httpdns\.start\.qcloud\.com
+cdn\.ynuf\.aliapp\.org
