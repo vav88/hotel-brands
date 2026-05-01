@@ -158,3 +158,5 @@ login\.microsoftonline\.com
 catfront\.dianping\.com
 dnspod\.meituan\.httpdns\.start\.qcloud\.com
 cdn\.ynuf\.aliapp\.org
+tunnel\.googlezip\.net
+ep\d+\.adtrafficquality\.google
