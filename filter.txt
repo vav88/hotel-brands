@@ -166,3 +166,8 @@ s\.youtube\.com
 aweme\.snssdk\.com
 this-url-does-not-exist-.*\.invalid
 api-stream\.twitter\.com
+services\.googleapis\.cn
+.*\.xhcdn\.com
+.*\.xhamster\.com
+recoil\.xhamster\.com
+cnt\.xhamster\.com
