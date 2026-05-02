@@ -163,3 +163,6 @@ ep\d+\.adtrafficquality\.google
 ep\d+\.adtrafficquality\.google
 cloudflare-ech\.com
 s\.youtube\.com
+aweme\.snssdk\.com
+this-url-does-not-exist-.*\.invalid
+api-stream\.twitter\.com
