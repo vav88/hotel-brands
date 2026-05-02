@@ -171,3 +171,8 @@ services\.googleapis\.cn
 .*\.xhamster\.com
 recoil\.xhamster\.com
 cnt\.xhamster\.com
+xhamsterlive\.com
+static\.xhpingcdn\.com
+thumb-v-nss\.xhpingcdn\.com
+video\.flirtify\.com
+g9\.nvdst\.com
