@@ -187,3 +187,11 @@ et\.local\.wps\.cn
 lh3\.googleusercontent\.com
 res\.res\.res\.res
 dispatch\.mgslb\.com
+\.xhcdn\.com
+\.xhpingcdn\.com
+xhamsterlive\.com
+\.flixcdn\.com
+\.xhamster\.com
+dispatch\.mgslb\.com
+res\.res\.res\.res
+lh3\.googleusercontent\.com
