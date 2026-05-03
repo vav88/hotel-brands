@@ -176,3 +176,9 @@ static\.xhpingcdn\.com
 thumb-v-nss\.xhpingcdn\.com
 video\.flirtify\.com
 g9\.nvdst\.com
+api\.segment\.io
+app-analytics-services\.com
+token\.safebrowsing\.apple\.com
+global\.dev\.cftls\.t\.co
+probe\.twitter\.com
+et\.local\.wps\.cn
