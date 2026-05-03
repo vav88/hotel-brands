@@ -178,3 +178,14 @@ ytimg\.com
 yunxinfw\.com
 z-m-gateway\.facebook\.com
 z-p42-chat-e2ee-ig\.facebook\.com
+c\d+\.ttcache\.com
+edge-hls\.saawsedge\.com
+media-hls\.saawsedge\.com
+edge-hls\.growcdnssedge\.com
+media-hls\.growcdnssedge\.com
+static-proxy\.strpst\.com
+go\.xxxviijmp\.com
+xhvideo\.sacdnssedge\.com
+landers\.cam4\.com
+join\.getcam4\.com
+go\.cambaddies\.com
