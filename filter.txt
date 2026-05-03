@@ -182,9 +182,7 @@ token\.safebrowsing\.apple\.com
 global\.dev\.cftls\.t\.co
 probe\.twitter\.com
 et\.local\.wps\.cn
-.*\.xhcdn\.com
 .*\.xhpingcdn\.com
-xhamsterlive\.com
 .*\.flixcdn\.com
 lh3\.googleusercontent\.com
 res\.res\.res\.res
