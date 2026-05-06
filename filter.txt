@@ -208,3 +208,12 @@ tsyndicate\.com
 ntxqy\.com
 xlivrdr\.com
 report\.url\.cn
+adnxs\.com
+casalemedia\.com
+criteo\.com
+taboola\.com
+demdex\.net
+btloader\.com
+360yield\.com
+rubiconproject\.com
+outbrain\.com
