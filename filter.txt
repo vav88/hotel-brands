@@ -207,3 +207,4 @@ martted\.com
 tsyndicate\.com
 ntxqy\.com
 xlivrdr\.com
+report\.url\.cn
