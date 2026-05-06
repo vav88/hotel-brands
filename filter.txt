@@ -200,3 +200,4 @@ aa999bb777\.com
 bec70d8e\.ucloud156\.xyz
 fastly\.jsdelivr\.net
 119\.28\.28\.98
+foxitservice\.com
