@@ -230,3 +230,6 @@ go\.xxxvjmp\.com
 stripcash\.com
 jsdelivr\.net
 sacdnssedge\.com
+beacon-api\.aliyuncs\.com
+beacons5\.gvt3\.com
+dnspod\.meituan\.httpdns\.qcloud\.com
