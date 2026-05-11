@@ -233,3 +233,15 @@ sacdnssedge\.com
 beacon-api\.aliyuncs\.com
 beacons5\.gvt3\.com
 dnspod\.meituan\.httpdns\.qcloud\.com
+pvvstream\.pro
+pxltag\.com
+uuidksinc\.net
+openfpcdn\.io
+mc\.webvisor\.org
+aacdn\.net
+realsrv\.com
+exoclick\.com
+c4s-rd\.services
+eunow4u\.com
+mat6tube\.com
+clips4sale\.com
